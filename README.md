@@ -1,16 +1,52 @@
-### Hi there 👋
+![Hola, mi nombre es Leonardo Sánchez y soy FullStack Developer](https://github.com/Leonardo200298/Leonardo200298/blob/main/src/Leonardosanchez.png)
 
-<!--
-**Leonardo200298/Leonardo200298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Soy un Full Stack Developer que esta sumando experiencia en desarrollo de aplicaciones Front-End y Back-End
+#### busco seguir ampliando mis conocimientos asi sea en un equipo o de manera autodidacta 
+#### para poder plasmarlo en un escenario real de trabajo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contactame:
+
+[Linkedin](https://www.linkedin.com/in/leonardo-s%C3%A1nchez-603648210/)
+
+---
+
+## Mi Stack de tecnologias:
+
+- JavaScript
+- HTML
+- CSS
+- React
+- Redux
+- Node.Js
+- Express
+- PostgresSQL
+- Sequelize
+
+---
+
+## Proyecto Individual Full Stack realizado
+
+#### LANDING PAGE:
+
+![Landing Page](./src/LandingPage.jpg)
+
+---
+
+#### MAIN PAGE:
+
+## ![Main Page](./src/MainPage.jpg)
+
+---
+
+#### DETAIL PAGE:
+
+![Detail Page](./src/Details.jpg)
+
+---
+
+
+#### CREATEPOKEMON PAGE:
+
+![CreateActivity Page](./src/CreatePokemon.jpg)
