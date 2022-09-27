@@ -18,11 +18,10 @@
 - HTML
 - CSS
 - React
-- Redux
+- Angular (en progreso)
 - Node.Js
-- Express
-- PostgresSQL
-- Sequelize
+- php (en progreso)
+- SQL (PDO)
 
 ---
 
