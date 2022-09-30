@@ -18,9 +18,9 @@
 - HTML
 - CSS
 - React
-- Angular (en progreso)
+- Angular (en proceso)
 - Node.Js
-- php (en progreso)
+- php (en proceso)
 - SQL (PDO)
 
 ---
