@@ -18,10 +18,11 @@
 - HTML
 - CSS
 - React
-- Angular (en proceso)
+- Angular 
+- TypeScript
 - Node.Js
-- php (en proceso)
-- SQL (PDO)
+- php 
+- SQL 
 
 ---
 
